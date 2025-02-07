@@ -18,6 +18,7 @@ export default function Home() {
        <Products/>
        <Top_sell/>
        <Dress/>
+      
        <CustomerCarousel/>
     </div>  
   );
